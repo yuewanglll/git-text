@@ -6,5 +6,6 @@ public class FirstGitDemo {
         System.out.println("FirstGitDemo");
         System.out.println("FirstGitDemo");
         System.out.println("FirstGitDemo");
+        System.out.println("hot fix commit");
     }
 }
