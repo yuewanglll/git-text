@@ -6,5 +6,7 @@ public class FirstGitDemo {
         System.out.println("FirstGitDemo");
         System.out.println("FirstGitDemo");
         System.out.println("FirstGitDemo");
+        System.out.println("master commit text");
+
     }
 }
